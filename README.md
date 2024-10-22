@@ -19,6 +19,7 @@
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nino.coding)
+<a href="https://app.daily.dev/nino6781"><img src="https://api.daily.dev/devcards/v2/rpnFAiguJZRL1iKZRDE3c.png?r=4xl" width="356" alt="Nino's Dev Card"/></a>
     
     
 ## 💻 Tech Stack
