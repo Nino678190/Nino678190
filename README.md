@@ -11,7 +11,7 @@
 ## 🚀 About Me
 -🌱 I’m currently learning **Swift, Golang**
 
--💬 Ask me about **HTML, CSS, JS, Nodejs, Express**
+-💬 Ask me about **HTML, CSS, JS, Nodejs, Express, Python**
 
 -⚡ Fun fact **neurons that fire together, wire together**
     
