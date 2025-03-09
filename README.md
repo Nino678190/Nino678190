@@ -8,7 +8,7 @@
     
     
 ![](https://visitcount.itsvg.in/api?id=Nino678190&label=Profile%20Views&color=0&icon=0&pretty=true)
-
+https://github.com/Nino678190/Nino678190/blob/main/README.md
 ## 🚀 About Me
 -🌱 I’m currently learning **Swift, Golang**
 
@@ -20,7 +20,6 @@
 
 ## 🌐 Socials
 <a href="https://app.daily.dev/nino6781"><img src="https://api.daily.dev/devcards/v2/rpnFAiguJZRL1iKZRDE3c.png?r=4xl" width="356" alt="Nino's Dev Card"/></a>
-[![roadmap.sh](https://roadmap.sh/card/tall/6720fb4e31d65c235d79eac0?variant=dark&roadmaps=frontend%2Ccyber-security%2Clinux%2Cnodejs)](https://roadmap.sh)
     
 ## 💻 Tech Stack
 
