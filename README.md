@@ -8,7 +8,6 @@
     
     
 ![](https://visitcount.itsvg.in/api?id=Nino678190&label=Profile%20Views&color=0&icon=0&pretty=true)
-https://github.com/Nino678190/Nino678190/blob/main/README.md
 ## 🚀 About Me
 -🌱 I’m currently learning **Swift, Golang**
 
