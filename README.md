@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Nino678190</h1>
     
 <h3 align="center">A passionate student from Germany</h3>
@@ -9,13 +7,12 @@
     
 ![](https://visitcount.itsvg.in/api?id=Nino678190&label=Profile%20Views&color=0&icon=0&pretty=true)
 ## 🚀 About Me
--🌱 I’m currently learning **Swift, Golang**
+-🌱 I’m currently learning **Swift, Golang, Typescript**
 
 -💬 Ask me about **HTML, CSS, JS, Nodejs, Express, Python**
 
 -⚡ Fun fact **neurons that fire together, wire together**
-    
-    
+
 
 ## 🌐 Socials
 <a href="https://app.daily.dev/nino6781"><img src="https://api.daily.dev/devcards/v2/rpnFAiguJZRL1iKZRDE3c.png?r=4xl" width="356" alt="Nino's Dev Card"/></a>
