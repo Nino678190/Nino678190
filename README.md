@@ -27,7 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nino678190&show_icons=true&locale=en" alt="nino678190" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nino678190&" alt="nino678190" /></p>
-
 ## ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
