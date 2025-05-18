@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nino678190" alt="nino678190" /></a> </p>
 
-- 🌱 I’m currently learning **Swift, Golang, Javascript/Typescript**
+- 🌱 I’m currently learning **Swift, Golang, Javascript/Typescript, Bash**
 
 - 👨‍💻 All of my projects are available at [https://nino678190.github.io/nic-tolksdorf/](https://nino678190.github.io/nic-tolksdorf/)
 
-- 💬 Ask me about **Linux, Docker**
+- 💬 Ask me about **Linux, Docker, Javascript/Webdevelopment**
 
 - ⚡ Fun fact **I think I am funny**
 
