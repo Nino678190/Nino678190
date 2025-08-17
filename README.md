@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift, Golang, Javascript/Typescript, Bash**
 
-- 👨‍💻 All of my projects are available at [https://nino678190.github.io/nic-tolksdorf/](https://nino678190.github.io/nic-tolksdorf/)
+- 👨‍💻 All of my projects are available at [https://tolksdorf.berlin](https://tolksdorf.berlin)
 
 - 💬 Ask me about **Linux, Docker, Javascript/Webdevelopment**
 
